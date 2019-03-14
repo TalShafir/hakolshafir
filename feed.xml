@@ -3,10 +3,10 @@
   <channel>
     <title>Awesome Title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://talshafir.github.io/hakolshafir//</link>
-    <atom:link href="https://talshafir.github.io/hakolshafir//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 14 Mar 2019 21:31:25 +0200</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2019 21:31:25 +0200</lastBuildDate>
+    <link>https://talshafir.github.io/hakolshafir//hakolshafir//</link>
+    <atom:link href="https://talshafir.github.io/hakolshafir//hakolshafir//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 14 Mar 2019 21:34:31 +0200</pubDate>
+    <lastBuildDate>Thu, 14 Mar 2019 21:34:31 +0200</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0300</pubDate>
-        <link>https://talshafir.github.io/hakolshafir//2014/07/18/project-1/</link>
-        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//2014/07/18/project-1/</guid>
+        <link>https://talshafir.github.io/hakolshafir//hakolshafir//2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//hakolshafir//2014/07/18/project-1/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate>
-        <link>https://talshafir.github.io/hakolshafir//web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//web%20development/2014/07/17/project-2/</guid>
+        <link>https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -38,8 +38,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0300</pubDate>
-        <link>https://talshafir.github.io/hakolshafir//web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//web%20development/2014/07/16/project-3/</guid>
+        <link>https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -51,8 +51,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0300</pubDate>
-        <link>https://talshafir.github.io/hakolshafir//web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//web%20development/2014/07/15/project-4/</guid>
+        <link>https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/15/project-4/</guid>
         
         
         <category>Web Development</category>
@@ -64,8 +64,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0300</pubDate>
-        <link>https://talshafir.github.io/hakolshafir//web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//web%20development/2014/07/15/project-6/</guid>
+        <link>https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -77,8 +77,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0300</pubDate>
-        <link>https://talshafir.github.io/hakolshafir//web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//web%20development/2014/07/14/project-5/</guid>
+        <link>https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://talshafir.github.io/hakolshafir//hakolshafir//web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>

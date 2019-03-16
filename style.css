@@ -70,23 +70,22 @@ h6 {
 }
 
 @media screen and (min-width: 500px) {
-
-.logo{
-	height: 100%;
-	position:absolute;
-	left:0;
-	top:0;
-	padding: 0.5%;
-}
+	.logo{
+		height: 100%;
+		position:absolute;
+		left:0;
+		top:0;
+		padding: 0.5%;
+	}
 }
 @media screen and (max-width: 500px) {
-.logo{
-	height: inherit;
-	position:absolute;
-	left:0;
-	top:0;
-	padding: 0.5%;
-}
+	.logo{
+		height: inherit;
+		position:absolute;
+		left:0;
+		top:0;
+		padding: 0.5%;
+	}
 }
 
 

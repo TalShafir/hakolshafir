@@ -251,6 +251,8 @@ fieldset[disabled] .btn-xl.active {
     color: #fed136;
 }
 
+
+
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
@@ -263,7 +265,13 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fec503;
 }
 
+
+
 @media(min-width:768px) {
+	.navbar-nav>li{
+		float:right;
+	}
+	
     .navbar-default {
         padding: 25px 0;
         border: 0;

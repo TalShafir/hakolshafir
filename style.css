@@ -21,6 +21,7 @@ body {
 
 .text-muted {
     color: #777;
+	direction: rtl;
 }
 
 .text-primary {
@@ -30,6 +31,7 @@ body {
 p {
     font-size: 14px;
     line-height: 1.75;
+	direction: rtl;
 }
 
 p.large {

@@ -1253,10 +1253,6 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _netlifyCms = __webpack_require__(17);
-
-var _netlifyCms2 = _interopRequireDefault(_netlifyCms);
-
 var _home = __webpack_require__(20);
 
 var _home2 = _interopRequireDefault(_home);
@@ -1314,13 +1310,7 @@ var ColorControl = function (_React$Component) {
   return ColorControl;
 }(_react2.default.Component);
 
-_netlifyCms2.default.registerPreviewStyle("/css/main.css");
-_netlifyCms2.default.registerPreviewTemplate("home", _home2.default);
-_netlifyCms2.default.registerPreviewTemplate("post", _post2.default);
-_netlifyCms2.default.registerPreviewTemplate("products", _products2.default);
-_netlifyCms2.default.registerPreviewTemplate("values", _values2.default);
-_netlifyCms2.default.registerPreviewTemplate("contact", _contact2.default);
-_netlifyCms2.default.registerWidget("color", ColorControl);
+
 
 /***/ }),
 /* 13 */
